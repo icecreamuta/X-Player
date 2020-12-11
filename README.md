@@ -1,6 +1,3 @@
-# X-Player
-Android Player with Monetization
-
 
 <!--privacy.html-->
 <!DOCTYPE html>
