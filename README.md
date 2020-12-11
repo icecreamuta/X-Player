@@ -4,12 +4,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title> X Player </title>
-	 <meta property="og:url" content="https://player.xtsmm.com/" />  
+	 <meta property="og:url" content="https://icecreamuta.github.io/X-Player//" />  
 	 <meta property="og:type" content="website" />  
 	 <meta property="og:title" content="X Player" />  
 	 <meta property="og:description" content="X Player Documentation" />  
-	 <meta property="og:image" content="https://player.xtsmm.com/cover.png" />  
-	<link rel="icon" type="image/png" href="https://cdn.xtsmm.com/admin_images%2Ffavicon.png"/>
+	 <meta property="og:image" content="https://www.pyittiehtaung.com/cover.png" />  
+	<link rel="icon" type="image/png" href="https://www.pyittiehtaung.com/player.svg"/>
    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.5.9/css/uikit.min.css" crossorigin="anonymous" />
    
@@ -28,12 +28,12 @@
   <div class="uk-section uk-section-secondary uk-light">
     <div class="uk-container">
 
-        <h3><img src='https://player.xtsmm.com/play.svg' style='height:40px;width:40px;background-color:transparent'/> X Player</h3>
+        <h3><img src='https://www.pyittiehtaung.com/player.svg' style='height:40px;width:40px;background-color:transparent'/> X Player</h3>
         
 
     </div>
 	<div class="uk-cover-container uk-height-large" style="margin:50px 0 50px 0">
-    <video src="https://cdn.xtsmm.com/uploads/video/sample.mp4" autoplay loop muted playsinline uk-cover></video>
+    <video src="https://www.pyittiehtaung.com/sample.mp4" autoplay loop muted playsinline uk-cover></video>
 	
 	</div>
 	<div class="uk-container">
@@ -130,8 +130,8 @@ startActivity(intent);
     </div>
 </div>
 <div class="uk-align-center" style='margin-bottom:5px;margin-top:100px' align=center>		
-		<a href="https://www.facebook.com/xtsmm" target=_blank class="uk-icon-button  uk-margin-small-right" uk-icon="server" uk-tooltip="title:Technical Provider"></a>
+		
 		<a href="#" class="uk-icon-button  uk-margin-small-right" uk-icon="lock" uk-toggle="target: .privacy" uk-tooltip="title:Privacy Policy"></a>
-		<a href="https://m.me/xtsmm" target=_blank class="uk-icon-button  uk-margin-small-right" uk-icon="question" uk-tooltip="title:Contact Us"></a>		
+		
 </div>	
 </body>
