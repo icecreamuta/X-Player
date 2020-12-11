@@ -45,7 +45,7 @@
 				<h2><span class="uk-label uk-primary">For Business</span></h2>
 				<p>X Player offers Player Monetization by Google Ads.</p>
 				<p>A simple process can make you revenue, a button in your app - open xPlayer with your Ads.</p>
-                <table class="uk-table uk-table-divider">					
+                <table class="uk-table uk-table-divider" style='color:black'>					
 					<tbody>
 						<tr>
 							<td>Ad Impression %</td>
