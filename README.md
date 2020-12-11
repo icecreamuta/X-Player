@@ -30,7 +30,7 @@
   <div class="uk-section uk-section-secondary uk-light">
     <div class="uk-container">
 
-        <h3><img src='/play.svg' style='height:40px;width:40px'/> X Player</h3>
+        <h3><img src='https://player.xtsmm.com/play.svg' style='height:40px;width:40px'/> X Player</h3>
         
 
     </div>
