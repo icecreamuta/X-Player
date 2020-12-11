@@ -18,6 +18,7 @@
    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.5.9/js/uikit.min.js" crossorigin="anonymous"></script>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.5.9/js/uikit-icons.min.js" crossorigin="anonymous"></script>
    <style>
+   html{background-color:#222!important;}
    dt{color:orange!important}
    .uk-modal-dialog{background:#222!important}
    </style>
