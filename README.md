@@ -33,7 +33,7 @@
 
     </div>
 	<div class="uk-cover-container uk-height-large" style="margin:50px 0 50px 0">
-    <video src="https://www.pyittiehtaung.com/sample.mp4" autoplay loop muted playsinline uk-cover></video>
+    <video src="https://www.pyittiehtaung.com/sample2.mp4" autoplay loop muted playsinline uk-cover></video>
 	
 	</div>
 	<div class="uk-container">
